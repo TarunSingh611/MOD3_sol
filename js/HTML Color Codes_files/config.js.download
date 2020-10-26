@@ -1,0 +1,8 @@
+
+window._mtm = window._mtm || {};
+window._mtm.projectId = "prj:742183b8-1798-4f66-8604-12a0beca5986";
+window._mtm.configAutoblocking =
+{
+    "rules": [],
+    "autoblockingEnabled": true
+}
